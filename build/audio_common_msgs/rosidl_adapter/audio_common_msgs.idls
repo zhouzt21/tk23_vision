@@ -1,0 +1,5 @@
+/home/qxy/tk23_ws/build/audio_common_msgs/rosidl_adapter/audio_common_msgs:msg/AudioData.idl
+/home/qxy/tk23_ws/build/audio_common_msgs/rosidl_adapter/audio_common_msgs:msg/AudioDataStamped.idl
+/home/qxy/tk23_ws/build/audio_common_msgs/rosidl_adapter/audio_common_msgs:msg/AudioInfo.idl
+/home/qxy/tk23_ws/build/audio_common_msgs/rosidl_adapter/audio_common_msgs:msg/SoundRequest.idl
+/home/qxy/tk23_ws/build/audio_common_msgs/rosidl_adapter/audio_common_msgs:action/SoundRequest.idl

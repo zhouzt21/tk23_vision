@@ -1,0 +1,25 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from tinker_vision_msgs/msg/Object.msg
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+
+module tinker_vision_msgs {
+  module msg {
+    struct Object {
+      float conf;
+
+      int16 id;
+
+      string cls;
+
+      geometry_msgs::msg::Point centroid;
+
+      boolean intersect;
+
+      geometry_msgs::msg::Point left_up;
+
+      geometry_msgs::msg::Point right_down;
+    };
+  };
+};

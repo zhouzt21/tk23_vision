@@ -1,0 +1,11 @@
+/home/qxy/tk23_ws/build/audio_play/CMakeFiles/uninstall.dir
+/home/qxy/tk23_ws/build/audio_play/CMakeFiles/audio_play_uninstall.dir
+/home/qxy/tk23_ws/build/audio_play/CMakeFiles/audio_play.dir
+/home/qxy/tk23_ws/build/audio_play/CMakeFiles/audio_play_node.dir
+/home/qxy/tk23_ws/build/audio_play/CMakeFiles/test.dir
+/home/qxy/tk23_ws/build/audio_play/CMakeFiles/edit_cache.dir
+/home/qxy/tk23_ws/build/audio_play/CMakeFiles/rebuild_cache.dir
+/home/qxy/tk23_ws/build/audio_play/CMakeFiles/list_install_components.dir
+/home/qxy/tk23_ws/build/audio_play/CMakeFiles/install.dir
+/home/qxy/tk23_ws/build/audio_play/CMakeFiles/install/local.dir
+/home/qxy/tk23_ws/build/audio_play/CMakeFiles/install/strip.dir

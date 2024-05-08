@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../../../../build/robocup_tasks/robocup_tasks.egg-info/PKG-INFO
+../../../../build/robocup_tasks/robocup_tasks.egg-info/SOURCES.txt
+../../../../build/robocup_tasks/robocup_tasks.egg-info/dependency_links.txt
+../../../../build/robocup_tasks/robocup_tasks.egg-info/entry_points.txt
+../../../../build/robocup_tasks/robocup_tasks.egg-info/requires.txt
+../../../../build/robocup_tasks/robocup_tasks.egg-info/top_level.txt
+../../../../build/robocup_tasks/robocup_tasks.egg-info/zip-safe
+resource/robocup_tasks
+robocup_tasks/__init__.py
+robocup_tasks/carry_my_luggage.py
+robocup_tasks/receptionist.py

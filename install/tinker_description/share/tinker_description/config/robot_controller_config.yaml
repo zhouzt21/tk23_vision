@@ -1,0 +1,33 @@
+controller_manager:
+  ros__parameters:
+    update_rate: 100  # Hz
+
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
+
+    tinker_controller:
+      type: tinker_chassis_controller/TinkerChassisController
+
+tinker_controller:
+  ros__parameters:
+    fl_wheel_joint_name: fl_wheel_joint
+    fr_wheel_joint_name: fr_wheel_joint
+    rl_wheel_joint_name: rl_wheel_joint
+    rr_wheel_joint_name: rr_wheel_joint
+    wheel_radius: 0.075
+    wheel_distance:
+      width: 0.42
+      length: 0.52
+    velocity_rolling_window_size: 10
+
+     # Frames
+    odom_frame_id: odom
+    base_frame_id: base_link
+    pose_covariance_diagonal: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    twist_covariance_diagonal: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    open_loop: false
+    enable_odom_tf: true
+
+    # signals:
+    publish_rate: 200.0
+

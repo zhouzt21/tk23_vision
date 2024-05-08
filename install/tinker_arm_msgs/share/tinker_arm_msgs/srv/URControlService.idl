@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from tinker_arm_msgs/srv/URControlService.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Pose.idl"
+
+module tinker_arm_msgs {
+  module srv {
+    @verbatim (language="comment", text=
+      "Control UR5 service")
+    struct URControlService_Request {
+      geometry_msgs::msg::Pose target_pose;
+    };
+    struct URControlService_Response {
+      boolean success;
+    };
+  };
+};

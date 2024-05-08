@@ -1,0 +1,16 @@
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/tinker_chassis_bringup/launch/chassis_bringup.launch.py
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/ament_index/resource_index/package_run_dependencies/tinker_chassis_bringup
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/ament_index/resource_index/parent_prefix_path/tinker_chassis_bringup
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/tinker_chassis_bringup/environment/ament_prefix_path.sh
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/tinker_chassis_bringup/environment/ament_prefix_path.dsv
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/tinker_chassis_bringup/environment/path.sh
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/tinker_chassis_bringup/environment/path.dsv
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/tinker_chassis_bringup/local_setup.bash
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/tinker_chassis_bringup/local_setup.sh
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/tinker_chassis_bringup/local_setup.zsh
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/tinker_chassis_bringup/local_setup.dsv
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/tinker_chassis_bringup/package.dsv
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/ament_index/resource_index/packages/tinker_chassis_bringup
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/tinker_chassis_bringup/cmake/tinker_chassis_bringupConfig.cmake
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/tinker_chassis_bringup/cmake/tinker_chassis_bringupConfig-version.cmake
+/home/qxy/tk23_ws/install/tinker_chassis_bringup/share/tinker_chassis_bringup/package.xml

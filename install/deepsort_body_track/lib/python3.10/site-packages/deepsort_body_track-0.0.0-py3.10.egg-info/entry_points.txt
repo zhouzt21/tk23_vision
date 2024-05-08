@@ -1,0 +1,3 @@
+[console_scripts]
+deepsort_body_track = deepsort_body_track.deepsort_body_track:main
+

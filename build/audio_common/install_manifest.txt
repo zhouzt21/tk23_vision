@@ -1,0 +1,15 @@
+/home/qxy/tk23_ws/install/audio_common/share/ament_index/resource_index/package_run_dependencies/audio_common
+/home/qxy/tk23_ws/install/audio_common/share/ament_index/resource_index/parent_prefix_path/audio_common
+/home/qxy/tk23_ws/install/audio_common/share/audio_common/environment/ament_prefix_path.sh
+/home/qxy/tk23_ws/install/audio_common/share/audio_common/environment/ament_prefix_path.dsv
+/home/qxy/tk23_ws/install/audio_common/share/audio_common/environment/path.sh
+/home/qxy/tk23_ws/install/audio_common/share/audio_common/environment/path.dsv
+/home/qxy/tk23_ws/install/audio_common/share/audio_common/local_setup.bash
+/home/qxy/tk23_ws/install/audio_common/share/audio_common/local_setup.sh
+/home/qxy/tk23_ws/install/audio_common/share/audio_common/local_setup.zsh
+/home/qxy/tk23_ws/install/audio_common/share/audio_common/local_setup.dsv
+/home/qxy/tk23_ws/install/audio_common/share/audio_common/package.dsv
+/home/qxy/tk23_ws/install/audio_common/share/ament_index/resource_index/packages/audio_common
+/home/qxy/tk23_ws/install/audio_common/share/audio_common/cmake/audio_commonConfig.cmake
+/home/qxy/tk23_ws/install/audio_common/share/audio_common/cmake/audio_commonConfig-version.cmake
+/home/qxy/tk23_ws/install/audio_common/share/audio_common/package.xml

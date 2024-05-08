@@ -1,0 +1,3 @@
+[console_scripts]
+service = object_detection.seg_yolov8:main
+

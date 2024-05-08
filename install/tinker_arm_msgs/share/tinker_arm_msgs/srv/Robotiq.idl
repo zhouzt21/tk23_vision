@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from tinker_arm_msgs/srv/Robotiq.srv
+// generated code does not contain a copyright notice
+
+
+module tinker_arm_msgs {
+  module srv {
+    @verbatim (language="comment", text=
+      "the distance between two hands, [0,255]")
+    struct Robotiq_Request {
+      int64 distance;
+    };
+    struct Robotiq_Response {
+      boolean success;
+    };
+  };
+};

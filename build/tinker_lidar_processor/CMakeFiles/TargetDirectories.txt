@@ -1,0 +1,10 @@
+/home/qxy/tk23_ws/build/tinker_lidar_processor/CMakeFiles/uninstall.dir
+/home/qxy/tk23_ws/build/tinker_lidar_processor/CMakeFiles/tinker_lidar_processor_uninstall.dir
+/home/qxy/tk23_ws/build/tinker_lidar_processor/CMakeFiles/lidar_decoder.dir
+/home/qxy/tk23_ws/build/tinker_lidar_processor/CMakeFiles/test.dir
+/home/qxy/tk23_ws/build/tinker_lidar_processor/CMakeFiles/edit_cache.dir
+/home/qxy/tk23_ws/build/tinker_lidar_processor/CMakeFiles/rebuild_cache.dir
+/home/qxy/tk23_ws/build/tinker_lidar_processor/CMakeFiles/list_install_components.dir
+/home/qxy/tk23_ws/build/tinker_lidar_processor/CMakeFiles/install.dir
+/home/qxy/tk23_ws/build/tinker_lidar_processor/CMakeFiles/install/local.dir
+/home/qxy/tk23_ws/build/tinker_lidar_processor/CMakeFiles/install/strip.dir

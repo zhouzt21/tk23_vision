@@ -1,0 +1,7 @@
+/home/qxy/tk23_ws/build/tinker_vision_msgs/rosidl_adapter/tinker_vision_msgs:msg/Object.idl
+/home/qxy/tk23_ws/build/tinker_vision_msgs/rosidl_adapter/tinker_vision_msgs:msg/Objects.idl
+/home/qxy/tk23_ws/build/tinker_vision_msgs/rosidl_adapter/tinker_vision_msgs:msg/Face.idl
+/home/qxy/tk23_ws/build/tinker_vision_msgs/rosidl_adapter/tinker_vision_msgs:msg/FaceResult.idl
+/home/qxy/tk23_ws/build/tinker_vision_msgs/rosidl_adapter/tinker_vision_msgs:msg/BoundingBox.idl
+/home/qxy/tk23_ws/build/tinker_vision_msgs/rosidl_adapter/tinker_vision_msgs:srv/ObjectDetection.idl
+/home/qxy/tk23_ws/build/tinker_vision_msgs/rosidl_adapter/tinker_vision_msgs:srv/FaceRegister.idl

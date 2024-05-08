@@ -1,0 +1,15 @@
+setup.py
+tinker_vision_msgs/__init__.py
+tinker_vision_msgs.egg-info/PKG-INFO
+tinker_vision_msgs.egg-info/SOURCES.txt
+tinker_vision_msgs.egg-info/dependency_links.txt
+tinker_vision_msgs.egg-info/top_level.txt
+tinker_vision_msgs/msg/__init__.py
+tinker_vision_msgs/msg/_bounding_box.py
+tinker_vision_msgs/msg/_face.py
+tinker_vision_msgs/msg/_face_result.py
+tinker_vision_msgs/msg/_object.py
+tinker_vision_msgs/msg/_objects.py
+tinker_vision_msgs/srv/__init__.py
+tinker_vision_msgs/srv/_face_register.py
+tinker_vision_msgs/srv/_object_detection.py

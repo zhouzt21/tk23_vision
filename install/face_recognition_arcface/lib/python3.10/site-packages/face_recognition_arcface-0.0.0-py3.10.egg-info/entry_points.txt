@@ -1,0 +1,3 @@
+[console_scripts]
+receptionist_face_task = face_recognition_arcface.receptionist_face_task:main
+

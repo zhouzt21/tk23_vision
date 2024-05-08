@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from tinker_vision_msgs/srv/FaceRegister.srv
+// generated code does not contain a copyright notice
+
+
+module tinker_vision_msgs {
+  module srv {
+    struct FaceRegister_Request {
+      int32 state;
+    };
+    struct FaceRegister_Response {
+      boolean success;
+
+      string fail_info;
+
+      sequence<int32> id;
+
+      string info;
+    };
+  };
+};

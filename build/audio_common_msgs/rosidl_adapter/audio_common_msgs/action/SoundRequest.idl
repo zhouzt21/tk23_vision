@@ -1,0 +1,24 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from audio_common_msgs/action/SoundRequest.action
+// generated code does not contain a copyright notice
+
+#include "audio_common_msgs/msg/SoundRequest.idl"
+#include "builtin_interfaces/msg/Duration.idl"
+
+module audio_common_msgs {
+  module action {
+    struct SoundRequest_Goal {
+      audio_common_msgs::msg::SoundRequest sound_request;
+    };
+    struct SoundRequest_Result {
+      boolean playing;
+
+      builtin_interfaces::msg::Duration stamp;
+    };
+    struct SoundRequest_Feedback {
+      boolean playing;
+
+      builtin_interfaces::msg::Duration stamp;
+    };
+  };
+};

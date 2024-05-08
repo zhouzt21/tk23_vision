@@ -1,0 +1,10 @@
+/home/qxy/tk23_ws/build/lidar_odom/CMakeFiles/uninstall.dir
+/home/qxy/tk23_ws/build/lidar_odom/CMakeFiles/lidar_odom_uninstall.dir
+/home/qxy/tk23_ws/build/lidar_odom/CMakeFiles/lidar_odom.dir
+/home/qxy/tk23_ws/build/lidar_odom/CMakeFiles/test.dir
+/home/qxy/tk23_ws/build/lidar_odom/CMakeFiles/edit_cache.dir
+/home/qxy/tk23_ws/build/lidar_odom/CMakeFiles/rebuild_cache.dir
+/home/qxy/tk23_ws/build/lidar_odom/CMakeFiles/list_install_components.dir
+/home/qxy/tk23_ws/build/lidar_odom/CMakeFiles/install.dir
+/home/qxy/tk23_ws/build/lidar_odom/CMakeFiles/install/local.dir
+/home/qxy/tk23_ws/build/lidar_odom/CMakeFiles/install/strip.dir

@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from tinker_vision_msgs/srv/ObjectDetection.srv
+// generated code does not contain a copyright notice
+
+#include "std_msgs/msg/Header.idl"
+#include "tinker_vision_msgs/msg/Object.idl"
+
+module tinker_vision_msgs {
+  module srv {
+    struct ObjectDetection_Request {
+      string mode;
+    };
+    struct ObjectDetection_Response {
+      std_msgs::msg::Header header;
+
+      int32 status;
+
+      int32 person_id;
+
+      sequence<tinker_vision_msgs::msg::Object> objects;
+    };
+  };
+};

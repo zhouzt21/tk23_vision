@@ -1,0 +1,7 @@
+{
+  "package_name": "tinker_arm_msgs",
+  "non_idl_tuples": [
+    "/home/qxy/tk23_ws/src/tk23_manipulation/src/tinker_arm_msgs:srv/URControlService.srv",
+    "/home/qxy/tk23_ws/src/tk23_manipulation/src/tinker_arm_msgs:srv/Robotiq.srv"
+  ]
+}

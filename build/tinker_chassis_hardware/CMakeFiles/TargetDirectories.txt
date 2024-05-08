@@ -1,0 +1,10 @@
+/home/qxy/tk23_ws/build/tinker_chassis_hardware/CMakeFiles/uninstall.dir
+/home/qxy/tk23_ws/build/tinker_chassis_hardware/CMakeFiles/tinker_chassis_hardware_uninstall.dir
+/home/qxy/tk23_ws/build/tinker_chassis_hardware/CMakeFiles/tinker_chassis_hardware.dir
+/home/qxy/tk23_ws/build/tinker_chassis_hardware/CMakeFiles/test.dir
+/home/qxy/tk23_ws/build/tinker_chassis_hardware/CMakeFiles/edit_cache.dir
+/home/qxy/tk23_ws/build/tinker_chassis_hardware/CMakeFiles/rebuild_cache.dir
+/home/qxy/tk23_ws/build/tinker_chassis_hardware/CMakeFiles/list_install_components.dir
+/home/qxy/tk23_ws/build/tinker_chassis_hardware/CMakeFiles/install.dir
+/home/qxy/tk23_ws/build/tinker_chassis_hardware/CMakeFiles/install/local.dir
+/home/qxy/tk23_ws/build/tinker_chassis_hardware/CMakeFiles/install/strip.dir

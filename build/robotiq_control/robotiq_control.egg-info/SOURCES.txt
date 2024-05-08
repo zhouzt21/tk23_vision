@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../../../../build/robotiq_control/robotiq_control.egg-info/PKG-INFO
+../../../../build/robotiq_control/robotiq_control.egg-info/SOURCES.txt
+../../../../build/robotiq_control/robotiq_control.egg-info/dependency_links.txt
+../../../../build/robotiq_control/robotiq_control.egg-info/entry_points.txt
+../../../../build/robotiq_control/robotiq_control.egg-info/requires.txt
+../../../../build/robotiq_control/robotiq_control.egg-info/top_level.txt
+../../../../build/robotiq_control/robotiq_control.egg-info/zip-safe
+resource/robotiq_control
+robotiq_control/__init__.py
+robotiq_control/gripper.py
+robotiq_control/robotiqGripper.py

@@ -1,0 +1,4 @@
+source;share/lidar_odom/local_setup.bash
+source;share/lidar_odom/local_setup.dsv
+source;share/lidar_odom/local_setup.sh
+source;share/lidar_odom/local_setup.zsh

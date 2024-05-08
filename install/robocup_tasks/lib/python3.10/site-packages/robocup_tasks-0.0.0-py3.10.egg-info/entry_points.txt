@@ -1,0 +1,4 @@
+[console_scripts]
+carry_my_luggage = robocup_tasks.carry_my_luggage:main
+receptionist = robocup_tasks.receptionist:main
+

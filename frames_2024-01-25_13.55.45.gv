@@ -1,0 +1,19 @@
+digraph G {
+"odom" -> "base_link"[label=" Broadcaster: default_authority\nAverage rate: 130.14\nBuffer length: 5.01\nMost recent transform: 1706162145.859846\nOldest transform: 1706162140.849839\n"];
+"map" -> "odom"[label=" Broadcaster: default_authority\nAverage rate: 3.611\nBuffer length: 3.6\nMost recent transform: 1706162146.500538\nOldest transform: 1706162142.900715\n"];
+"base_link" -> "base_link_inertial"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"base_link" -> "laser"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"base_link" -> "camera_link"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"camera_link" -> "camera_depth_frame"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"camera_depth_frame" -> "camera_depth_optical_frame"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"camera_link" -> "camera_color_frame"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"camera_color_frame" -> "camera_color_optical_frame"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"base_link_inertial" -> "fl_wheel_link"[label=" Broadcaster: default_authority\nAverage rate: 18.273\nBuffer length: 4.98\nMost recent transform: 1706162145.849845\nOldest transform: 1706162140.869839\n"];
+"base_link_inertial" -> "fr_wheel_link"[label=" Broadcaster: default_authority\nAverage rate: 18.273\nBuffer length: 4.98\nMost recent transform: 1706162145.849845\nOldest transform: 1706162140.869839\n"];
+"base_link_inertial" -> "rl_wheel_link"[label=" Broadcaster: default_authority\nAverage rate: 18.273\nBuffer length: 4.98\nMost recent transform: 1706162145.849845\nOldest transform: 1706162140.869839\n"];
+"base_link_inertial" -> "rr_wheel_link"[label=" Broadcaster: default_authority\nAverage rate: 18.273\nBuffer length: 4.98\nMost recent transform: 1706162145.849845\nOldest transform: 1706162140.869839\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1706162145.8702893"[ shape=plaintext ] ;
+}->"map";
+}

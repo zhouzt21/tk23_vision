@@ -1,0 +1,10 @@
+{
+  "package_name": "audio_common_msgs",
+  "non_idl_tuples": [
+    "/home/qxy/tk23_ws/src/tk23_audio/src/audio_common_msgs:msg/AudioData.msg",
+    "/home/qxy/tk23_ws/src/tk23_audio/src/audio_common_msgs:msg/AudioDataStamped.msg",
+    "/home/qxy/tk23_ws/src/tk23_audio/src/audio_common_msgs:msg/AudioInfo.msg",
+    "/home/qxy/tk23_ws/src/tk23_audio/src/audio_common_msgs:msg/SoundRequest.msg",
+    "/home/qxy/tk23_ws/src/tk23_audio/src/audio_common_msgs:action/SoundRequest.action"
+  ]
+}

@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from tinker_vision_msgs/msg/FaceResult.msg
+// generated code does not contain a copyright notice
+
+#include "std_msgs/msg/Header.idl"
+#include "tinker_vision_msgs/msg/Face.idl"
+
+module tinker_vision_msgs {
+  module msg {
+    struct FaceResult {
+      std_msgs::msg::Header header;
+
+      sequence<tinker_vision_msgs::msg::Face> faces;
+
+      boolean success;
+
+      string fail_info;
+    };
+  };
+};

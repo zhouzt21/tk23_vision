@@ -1,0 +1,10 @@
+/home/qxy/tk23_ws/build/tinker_moveit/CMakeFiles/uninstall.dir
+/home/qxy/tk23_ws/build/tinker_moveit/CMakeFiles/tinker_moveit_uninstall.dir
+/home/qxy/tk23_ws/build/tinker_moveit/CMakeFiles/tinker_arm_controller.dir
+/home/qxy/tk23_ws/build/tinker_moveit/CMakeFiles/test.dir
+/home/qxy/tk23_ws/build/tinker_moveit/CMakeFiles/edit_cache.dir
+/home/qxy/tk23_ws/build/tinker_moveit/CMakeFiles/rebuild_cache.dir
+/home/qxy/tk23_ws/build/tinker_moveit/CMakeFiles/list_install_components.dir
+/home/qxy/tk23_ws/build/tinker_moveit/CMakeFiles/install.dir
+/home/qxy/tk23_ws/build/tinker_moveit/CMakeFiles/install/local.dir
+/home/qxy/tk23_ws/build/tinker_moveit/CMakeFiles/install/strip.dir

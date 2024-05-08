@@ -1,0 +1,12 @@
+{
+  "package_name": "tinker_vision_msgs",
+  "non_idl_tuples": [
+    "/home/qxy/tk23_ws/src/tk23_vision/src/tinker_vision_msgs:msg/Object.msg",
+    "/home/qxy/tk23_ws/src/tk23_vision/src/tinker_vision_msgs:msg/Objects.msg",
+    "/home/qxy/tk23_ws/src/tk23_vision/src/tinker_vision_msgs:msg/Face.msg",
+    "/home/qxy/tk23_ws/src/tk23_vision/src/tinker_vision_msgs:msg/FaceResult.msg",
+    "/home/qxy/tk23_ws/src/tk23_vision/src/tinker_vision_msgs:msg/BoundingBox.msg",
+    "/home/qxy/tk23_ws/src/tk23_vision/src/tinker_vision_msgs:srv/ObjectDetection.srv",
+    "/home/qxy/tk23_ws/src/tk23_vision/src/tinker_vision_msgs:srv/FaceRegister.srv"
+  ]
+}
